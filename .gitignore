@@ -1,0 +1,6 @@
+tmpfile
+core
+*.o
+main
+libparser.a
+libparser.so
